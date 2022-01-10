@@ -1,4 +1,4 @@
-***TRANSLATE BDFD CODE TO PYTHON || ORIGINAL CODE BY @Ffanyi × ∆  clown🃏#3726 ***
+***TRANSLATE BDFD CODE TO PYTHON || ORIGINAL CODE BY @Ffanyi × ∆  clown🃏#3726***
 
 **• IMPORTS**
 ```py
