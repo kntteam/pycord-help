@@ -1,0 +1,2 @@
+# pycord-help
+ bruh
